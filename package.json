@@ -1,10 +1,10 @@
 {
-  "name": "learn-daydream-and-nightmare",
+  "name": "pure-nightmarejs",
   "version": "1.0.0",
-  "description": "Give yourself web super powers with two awesome tools! Learn Daydream & Nightmare.js Today!",
+  "description": "Nightmarejs test using Electron",
   "main": "index.js",
   "scripts": {
-    "test": "node duckduckgo.js"
+    "test": "node httpbin.js"
   },
   "repository": {
     "type": "git",
